@@ -1,0 +1,26 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "designModeSelected" : 0,
+  "cachedDeviceHeight" : 170,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "cachedDeviceWidth" : 136,
+  "deviceType" : "apple-watch-series-2-38mm-black-steel-black",
+  "sharedPrototype" : 0,
+  "propertyPanelToggleStates" : {
+
+  },
+  "projectId" : "9D0BBE73-D98E-465E-A41E-96CDD9805BBC",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "showBezel" : 0,
+  "foldedCodeRanges" : [
+    "{65, 148}",
+    "{229, 335}",
+    "{564, 345}",
+    "{909, 365}",
+    "{1274, 127}"
+  ],
+  "deviceScale" : "fit"
+}
